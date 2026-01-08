@@ -135,9 +135,6 @@
                     <preparationGoals>clean verify</preparationGoals>
                 </configuration>
             </plugin>
-            <pluginGroups>
-                <pluginGroup>org.sonarsource.scanner.maven</pluginGroup>
-            </pluginGroups>
         </plugins>
     </build>
 </project>
